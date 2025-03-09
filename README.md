@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width"50" height"50" src="https://media0.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=6c09b9521w1gpm0pxbw71zxun64vaqrz2b2ffu22xf5dtifz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdxrahul62&label=Profile%20views&color=0e75b6&style=flat" alt="rdxrahul62" /> </p>
 
 
