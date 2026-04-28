@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: rdxrahul62068@gmail.com
 <h2 align="left">Hi 👋! My name is Rahulraj  and I'm a Student, from Bihar.</h2>
+<h2 align="left">Hi 👋! My name is Rahulraj  and I'm a Student, from Bihar.</h2>
 
 ###
 
@@ -14,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif"  />
+<img align="right" height="150" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
 
 ###
 
